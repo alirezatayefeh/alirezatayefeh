@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-# I'm Alireza Tayefeh - Java devoper
+# I'm Alireza Tayefeh - Java developer
