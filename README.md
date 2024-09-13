@@ -39,7 +39,7 @@ Developing search engine features with Java and Spring framework.
 
 <div><br/></div><div><br/></div><div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alireza%20Tayefeh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alireza-tayefeh-a16070195/)](https://linkedin.com/in/alireza-tayefeh-a16070195/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alireza%20Tayefeh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alirezatayefeh)](https://linkedin.com/in/alirezatayefeh/) 
 
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezatayefeh&layout=compact&hide=html&theme=dark" alt="alirezatayefeh" width="400" /></div>
