@@ -4,11 +4,15 @@
 
 Bachelor of Science in Computer Engineering (Software Engineering) " 2013-2016" at Shahrood University of Technology - Iran.
 
-You can visit my Linkedin account and read my resume. :)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<div><br/></div><div><br/></div><div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alireza%20Tayefeh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alirezatayefeh)](https://linkedin.com/in/alirezatayefeh/) 
+
+<a href="https://www.linkedin.com/in/alirezatayefeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-ibrahim-58b918206" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8499673/alireza-tayefeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14506318" height="30" width="40" /></a>
+<a href="https://instagram.com/alireza_tayefeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustfaibra" height="30" width="40" /></a>
+</p>
 
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezatayefeh&layout=compact&hide=html&theme=dark" alt="alirezatayefeh" width="400" /></div>
