@@ -7,14 +7,14 @@ Shahrood University of Technology — Iran (2013–2016)
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alirezatayefeh/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Alireza%20Tayefeh-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/alirezatayefeh/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://stackoverflow.com/users/8499673/alireza-tayefeh" target="_blank">
-<img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge&logo=stackoverflow"/>
+<a href="https://stackoverflow.com/users/8499673/alireza-tayefeh">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40"/>
 </a>
-<a href="https://instagram.com/alireza_tayefeh" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-alireza__tayefeh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/alireza_tayefeh">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
