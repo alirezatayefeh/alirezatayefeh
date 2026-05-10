@@ -31,8 +31,8 @@ Shahrood University of Technology — Iran (2013–2016)
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alirezatayefeh&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezatayefeh&layout=compact&theme=dark"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alirezatayefeh&show_icons=true&theme=dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alirezatayefeh&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -40,7 +40,8 @@ Shahrood University of Technology — Iran (2013–2016)
 ### 🚀 About Me
 
 - Java / Kotlin Backend Developer  
-- Spring Boot & Microservices  
+- Spring Boot
+- Microservices  
 - Interested in scalable backend systems  
 - Always learning new backend architectures  
 
