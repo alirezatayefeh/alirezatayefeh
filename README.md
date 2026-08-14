@@ -38,31 +38,41 @@ My experience includes designing and developing backend services, working with r
 ## 🧠 Tech Stack
 
 ### 💻 Backend
+Java · Kotlin
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin" />
 </p>
 
 ### 🗄️ Databases & Caching
+Oracle · PostgreSQL · MySQL · MariaDB · Redis
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
 ### 📨 Messaging
+Kafka
+
 <p>
   <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure
+Docker · Linux
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux" />
 </p>
 
 ### 🛠️ Build & Version Control
+Gradle · Maven · Git
+
 <p>
   <img src="https://skillicons.dev/icons?i=gradle,maven,git" />
 </p>
----
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,8 +87,6 @@ My experience includes designing and developing backend services, working with r
     alt="Alireza's Most Used Languages"
   />
 </p>
-
----
 
 ## 📈 GitHub Activity
 
